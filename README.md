@@ -31,9 +31,7 @@ and **sharpness** (narrow prediction intervals), highlighting the contexts in wh
 - `Using Conformal Prediction for Uncertainty Estimation in Electricity Load Demand.pdf` → Final Master Thesis (report).  
 - `Preprocessing.ipynb` → Data preprocessing and feature engineering (calendar variables, weather features).  
 - `QRF.ipynb` → Implementation and experiments with Quantile Regression Forests.  
-- `CQR.ipynb` → Implementation and experiments with Conformalized Quantile Regression.  
-- *(optional: future)* Notebooks for EnbPI and Adaptive EnbPI.
-
+- `CQR.ipynb` → Implementation and experiments with Conformalized Quantile Regression, EnbPI and Adaptive EnbPI.  
 ---
 
 ## 🛠️ Methods Overview
