@@ -11,8 +11,7 @@
 This repository contains the code and supporting material for my Master’s Thesis,  
 **“Using Conformal Prediction for Uncertainty Estimation in Electricity Load Demand”**.
 
-The thesis explores **probabilistic load forecasting** using data from the  
-[Global Energy Forecasting Competition 2014 (GEFCom2014)](https://www.drhongtao.com/gefcom).  
+The thesis explores **probabilistic load forecasting** using data from the Global Energy Forecasting Competition 2014 (GEFCom2014).
 The focus is on building **prediction intervals** that quantify uncertainty in electricity demand,  
 comparing several state-of-the-art methods:
 
@@ -24,9 +23,6 @@ comparing several state-of-the-art methods:
 
 The thesis demonstrates the trade-off between **calibration** (empirical coverage close to nominal levels)  
 and **sharpness** (narrow prediction intervals), highlighting the contexts in which each method is preferable.
-
-📄 You can find the full thesis document here:  
-[TFM_GABRIEL_PONS.pdf](./TFM_GABRIEL_PONS.pdf)
 
 ---
 
