@@ -75,14 +75,14 @@ The dataset comes from the **GEFCom2014 Probabilistic Load Forecasting track**:
 - **QRF**: Good adaptation to data, but empirical coverage differs from nominal.  
 - **CQR**: Achieves calibrated coverage (80%, 90%, 96%) with slightly narrower intervals than QRF.  
 - **EnbPI**: Produces much sharper intervals but consistently under-covers.  
-- **Adaptive EnbPI**: Small improvements with higher sigma quantiles, but still under nominal and costly.  
+- **Adaptive EnbPI**: Small improvements with higher sigma quantiles, but still under nominal and time conssuming.  
 
 ---
 
 ## 📜 License
 
 - Code is released under the **MIT License** (permissive, open-source).  
-- The thesis text (`TFM_GABRIEL_PONS.pdf`) is released under a  
+- The thesis text is released under a  
   **Creative Commons Attribution-NonCommercial (CC BY-NC 4.0) License**.  
 
 ---
