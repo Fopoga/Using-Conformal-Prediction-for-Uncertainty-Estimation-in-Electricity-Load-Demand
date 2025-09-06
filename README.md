@@ -1,12 +1,12 @@
 # Master Thesis: Using Conformal Prediction for Uncertainty Estimation in Electricity Load Demand
 
-📘 **Author**: Gabriel Pons Fontoira  
-🎓 **Program**: Master Degree in Statistics for Data Science (2024–2025)  
-🏫 **University**: Universidad Carlos III de Madrid  
+ **Author**: Gabriel Pons Fontoira  
+ **Program**: Master Degree in Statistics for Data Science (2024–2025)  
+ **University**: Universidad Carlos III de Madrid  
 
 ---
 
-## 📖 Thesis Summary
+## Thesis Summary
 
 This repository contains the code and supporting material for my Master’s Thesis,  
 **“Using Conformal Prediction for Uncertainty Estimation in Electricity Load Demand”**.
@@ -23,7 +23,7 @@ comparing several state-of-the-art methods:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `Using Conformal Prediction for Uncertainty Estimation in Electricity Load Demand.pdf` → Final Master Thesis (report).  
 - `Preprocessing.ipynb` → Data preprocessing and feature engineering (calendar variables, weather features).  
@@ -31,7 +31,7 @@ comparing several state-of-the-art methods:
 - `CQR.ipynb` → Implementation and experiments with Conformalized Quantile Regression, EnbPI and Adaptive EnbPI.  
 ---
 
-## 📜 License
+## License
 
 - Code is released under the **MIT License** (permissive, open-source).  
 - The thesis text is released under a  
@@ -39,7 +39,7 @@ comparing several state-of-the-art methods:
 
 ---
 
-## 📚 References
+## References
 
 - Koenker, R., & Bassett, G. (1978). *Regression quantiles*. Econometrica.  
 - Meinshausen, N. (2006). *Quantile regression forests*. JMLR.  
@@ -51,7 +51,7 @@ comparing several state-of-the-art methods:
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 This work was supervised by **Prof. Ricardo Aler Mur**,  
 Master in Statistics for Data Science, Universidad Carlos III de Madrid.  
